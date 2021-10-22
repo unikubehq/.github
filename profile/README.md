@@ -5,7 +5,7 @@
 # We are the team behind Unikube 👋
 
   
-![Unikube-group-photo](docs/img/Unikube-group-photo.jpg)
+![Unikube-group-photo](https://unikube.io/docs/img/Unikube-group-photo.jpg)
 
   
 
